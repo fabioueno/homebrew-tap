@@ -1,8 +1,8 @@
 class Teire < Formula
   desc "Keeps a machine's dotfiles in the shape that a repository declares"
   homepage "https://github.com/fabioueno/teire"
-  url "https://github.com/fabioueno/teire/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "0773e82bfe3e78d477ea6e90e006e75fa8745f6dd6e6806c175561d2064234f9"
+  url "https://github.com/fabioueno/teire/archive/refs/tags/v0.2.1.tar.gz"
+  sha256 "8eb2c702cf313f82e193252d0b562b2fc3bb5a12d559a5853928dbdd263505e6"
   license "MIT"
 
   depends_on "go" => :build
