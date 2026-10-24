@@ -1,0 +1,19 @@
+### macOS
+# General
+.DS_Store
+.localized
+__MACOSX/
+.AppleDouble
+.LSOverride
+Icon[]
+
+# Resource forks
+._*
+
+# Files and directories that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+
